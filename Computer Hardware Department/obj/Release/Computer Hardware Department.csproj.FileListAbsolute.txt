@@ -1,0 +1,87 @@
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Computer Hardware Department.mdf
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Computer Hardware Department_log.ldf
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\SqlServerTypes\x64\msvcr120.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\SqlServerTypes\x86\msvcr120.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Computer Hardware Department.exe.config
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Computer Hardware Department.exe
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Computer Hardware Department.pdb
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.Common.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.Design.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.WinForms.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.SqlServer.Types.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\EnvDTE.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\stdole.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\Microsoft.MSXML.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.csprojAssemblyReference.cache
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.AdminLogin.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.Automation.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditDeliveryForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditEmployeesForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditIssueForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditModelsForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditSuppliersForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditSuppliesForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditTypesForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.FilterForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.MainForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.Properties.Resources.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.QueryEdit.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.ReportSellsForm.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.StatisticsQueries.resources
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.GenerateResource.cache
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\RdlCompile.cache
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\RdlCompile.compiled
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.CoreCompileInputs.cache
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.CopyComplete
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.exe
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.pdb
+F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.ReportSuppliesForm.resources
