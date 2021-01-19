@@ -1,1 +1,1 @@
-IS Computer Hardware Department
+Information system made with C#, Winforms and MS SQL for computer hardware departments or business linked with computer hardware. The main features are: storing, adding, formatting and deleting information
