@@ -85,3 +85,88 @@ F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Comput
 F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.exe
 F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer Hardware Department.pdb
 F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\obj\Release\Computer_Hardware_Department.ReportSuppliesForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Computer Hardware Department.mdf
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Computer Hardware Department_log.ldf
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Computer Hardware Department.exe.config
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Computer Hardware Department.exe
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Computer Hardware Department.pdb
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\EnvDTE.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\stdole.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\Microsoft.MSXML.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.csprojAssemblyReference.cache
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.AdminLogin.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.Automation.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditDeliveryForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditEmployeesForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditIssueForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditModelsForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditSuppliersForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditSuppliesForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.EditTypesForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.FilterForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.MainForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.Properties.Resources.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.QueryEdit.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.ReportSellsForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.ReportSuppliesForm.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer_Hardware_Department.StatisticsQueries.resources
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.GenerateResource.cache
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.CoreCompileInputs.cache
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.csproj.CopyComplete
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.exe
+C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\obj\Release\Computer Hardware Department.pdb

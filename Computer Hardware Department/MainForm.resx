@@ -124,7 +124,7 @@
     <value>26, 20</value>
   </metadata>
   <metadata name="computer_Hardware_DepartmentDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>338, 21</value>
+    <value>193, 22</value>
   </metadata>
   <metadata name="modelsBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1042, 28</value>
@@ -136,7 +136,7 @@
     <value>578, 59</value>
   </metadata>
   <metadata name="deliveryBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>306, 100</value>
+    <value>182, 106</value>
   </metadata>
   <metadata name="employeesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>646, 100</value>
@@ -163,7 +163,7 @@
     <value>371, 64</value>
   </metadata>
   <metadata name="deliveryTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>479, 100</value>
+    <value>366, 109</value>
   </metadata>
   <metadata name="employeesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>835, 100</value>

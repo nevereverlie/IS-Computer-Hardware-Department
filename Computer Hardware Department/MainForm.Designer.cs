@@ -254,8 +254,8 @@
             // 
             // modelsBindingSource1
             // 
-            this.modelsBindingSource1.DataMember = "Models";
             this.modelsBindingSource1.DataSource = this.bindingSource1;
+            this.modelsBindingSource1.Position = 0;
             // 
             // menuStrip1
             // 
@@ -283,7 +283,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.exitToolStripMenuItem.Text = "Вихід";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
             // 
@@ -298,55 +298,55 @@
             this.deliveryToolStripMenuItem,
             this.issueToolStripMenuItem});
             this.databaseToolStripMenuItem.Name = "databaseToolStripMenuItem";
-            this.databaseToolStripMenuItem.Size = new System.Drawing.Size(77, 20);
+            this.databaseToolStripMenuItem.Size = new System.Drawing.Size(78, 20);
             this.databaseToolStripMenuItem.Text = "База даних";
             // 
             // modelsToolStripMenuItem
             // 
             this.modelsToolStripMenuItem.Name = "modelsToolStripMenuItem";
-            this.modelsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.modelsToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.modelsToolStripMenuItem.Text = "Моделі";
             this.modelsToolStripMenuItem.Click += new System.EventHandler(this.ModelsToolStripMenuItem_Click);
             // 
             // suppliersToolStripMenuItem
             // 
             this.suppliersToolStripMenuItem.Name = "suppliersToolStripMenuItem";
-            this.suppliersToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.suppliersToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.suppliersToolStripMenuItem.Text = "Постачальники";
             this.suppliersToolStripMenuItem.Click += new System.EventHandler(this.SuppliersToolStripMenuItem_Click);
             // 
             // typesOfProductsToolStripMenuItem
             // 
             this.typesOfProductsToolStripMenuItem.Name = "typesOfProductsToolStripMenuItem";
-            this.typesOfProductsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.typesOfProductsToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.typesOfProductsToolStripMenuItem.Text = "Види товарів";
             this.typesOfProductsToolStripMenuItem.Click += new System.EventHandler(this.TypesOfProductsToolStripMenuItem_Click);
             // 
             // supplyToolStripMenuItem
             // 
             this.supplyToolStripMenuItem.Name = "supplyToolStripMenuItem";
-            this.supplyToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.supplyToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.supplyToolStripMenuItem.Text = "Поставки";
             this.supplyToolStripMenuItem.Click += new System.EventHandler(this.SupplyToolStripMenuItem_Click);
             // 
             // employeesToolStripMenuItem
             // 
             this.employeesToolStripMenuItem.Name = "employeesToolStripMenuItem";
-            this.employeesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.employeesToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.employeesToolStripMenuItem.Text = "Співробітники";
             this.employeesToolStripMenuItem.Click += new System.EventHandler(this.EmployeesToolStripMenuItem_Click);
             // 
             // deliveryToolStripMenuItem
             // 
             this.deliveryToolStripMenuItem.Name = "deliveryToolStripMenuItem";
-            this.deliveryToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.deliveryToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.deliveryToolStripMenuItem.Text = "Доставка";
             this.deliveryToolStripMenuItem.Click += new System.EventHandler(this.DeliveryToolStripMenuItem_Click);
             // 
             // issueToolStripMenuItem
             // 
             this.issueToolStripMenuItem.Name = "issueToolStripMenuItem";
-            this.issueToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.issueToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.issueToolStripMenuItem.Text = "Видача";
             this.issueToolStripMenuItem.Click += new System.EventHandler(this.IssueToolStripMenuItem_Click);
             // 
@@ -363,19 +363,19 @@
             // reportSellsToolStripMenuItem
             // 
             this.reportSellsToolStripMenuItem.Name = "reportSellsToolStripMenuItem";
-            this.reportSellsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.reportSellsToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
             this.reportSellsToolStripMenuItem.Text = "Продажі";
             this.reportSellsToolStripMenuItem.Click += new System.EventHandler(this.ReportSellsToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(123, 6);
             // 
             // поставкиToolStripMenuItem
             // 
             this.поставкиToolStripMenuItem.Name = "поставкиToolStripMenuItem";
-            this.поставкиToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.поставкиToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
             this.поставкиToolStripMenuItem.Text = "Поставки";
             this.поставкиToolStripMenuItem.Click += new System.EventHandler(this.ПоставкиToolStripMenuItem_Click);
             // 
@@ -390,7 +390,7 @@
             // queriesToolStripMenuItem
             // 
             this.queriesToolStripMenuItem.Name = "queriesToolStripMenuItem";
-            this.queriesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.queriesToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.queriesToolStripMenuItem.Text = "Переглянути";
             this.queriesToolStripMenuItem.Click += new System.EventHandler(this.QueriesToolStripMenuItem_Click);
             // 
@@ -405,7 +405,7 @@
             // priceAdjustmentToolStripMenuItem
             // 
             this.priceAdjustmentToolStripMenuItem.Name = "priceAdjustmentToolStripMenuItem";
-            this.priceAdjustmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.priceAdjustmentToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.priceAdjustmentToolStripMenuItem.Text = "Регулювання цін";
             this.priceAdjustmentToolStripMenuItem.Click += new System.EventHandler(this.PriceAdjustmentToolStripMenuItem_Click);
             // 

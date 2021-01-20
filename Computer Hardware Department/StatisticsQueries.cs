@@ -13,7 +13,7 @@ namespace Computer_Hardware_Department
 {
     public partial class StatisticsQueries : Form
     {
-        const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\Computer Hardware Department.mdf;Integrated Security=True";
+        const string ConnectionString = MainForm.ConnectionString;
 
         public StatisticsQueries()
         {

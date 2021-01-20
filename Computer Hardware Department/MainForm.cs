@@ -13,7 +13,7 @@ namespace Computer_Hardware_Department
 {
     public partial class MainForm : Form
     {
-        public const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\Computer Hardware Department.mdf;Integrated Security=True";
+        public const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Danilda\Desktop\IS-Computer-Hardware-Department-master\Computer Hardware Department\Computer Hardware Department.mdf;Integrated Security=True";
         public MainForm()
         {
             InitializeComponent();

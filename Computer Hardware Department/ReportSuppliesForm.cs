@@ -18,7 +18,7 @@ namespace Computer_Hardware_Department
         {
             InitializeComponent();
         }
-        const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\БД\БД Лаба 3 - SQL Запросы\Computer Hardware Department\Computer Hardware Department\Computer Hardware Department.mdf;Integrated Security=True";
+        const string ConnectionString = MainForm.ConnectionString;
         private void ReportSuppliesForm_Load(object sender, EventArgs e)
         {
             // TODO: данная строка кода позволяет загрузить данные в таблицу "Computer_Hardware_DepartmentDataSet.Supply". При необходимости она может быть перемещена или удалена.
